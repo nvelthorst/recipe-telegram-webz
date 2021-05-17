@@ -1,0 +1,14 @@
+{
+  "id": "telegram_webz",
+  "name": "Telegram Webz",
+  "version": "1.0.0",
+  "description": "Telegram webz",
+  "main": "index.js",
+  "author": "Nick Velthorst <nvelthorst@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://webz.telegram.org",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
